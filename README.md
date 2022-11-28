@@ -15,8 +15,7 @@ Deployed Website: https://PriyanshiNagpal.github.io/dogTime/
 
 ## Authors
 
-  - **Priyanshi Nagpal**
-    [PriyanshiNagpal](https://PriyanshiNagpal.github.io/)
+   - [PriyanshiNagpal](https://PriyanshiNagpal.github.io/)
 
 
 ## License
