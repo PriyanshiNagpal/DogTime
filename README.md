@@ -4,7 +4,7 @@ Start up landing page for a fictional application named DogTime. DogTime allows 
 
 ## Deployment
 
-Deployed Website: https://PriyanshiNagpal.github.io/dogTime/
+Deployed Website: https://priyanshinagpal.github.io/DogTime/
 
 
 ## Built With
