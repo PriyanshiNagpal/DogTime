@@ -1,12 +1,11 @@
 # 🐶 DogTime
 
-Start up landing page for a fictional application named TinDog. TinDog allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder.
+Start up landing page for a fictional application named DogTime. DogTime allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder.
 
 ## Deployment
 
 Deployed Website: https://PriyanshiNagpal.github.io/dogTime/
 
-![tindog](./images/Capture.png)
 
 ## Built With
 
